@@ -19,4 +19,9 @@ https://9.234456.xyz/abc.html?t=567
 update kernel
 
 ref: https://unix.stackexchange.com/questions/685830/how-to-use-5-16-kernel-with-ubuntu-21-10
+https://github.com/pimlie/ubuntu-mainline-kernel.sh
 
+```bash
+sudo install ubuntu-mainline-kernel.sh /usr/local/bin/
+sudo ubuntu-mainline-kernel.sh -i
+```
