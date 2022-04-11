@@ -32,3 +32,9 @@ https://unix.stackexchange.com/questions/685830/how-to-use-5-16-kernel-with-ubun
 sudo apt install dkms
 sudo dkms install -m nvidia -v 510.54
 ```
+
+# Docker
+https://github.com/OCRTOC/OCRTOC_software_package
+```bash
+sudo chmod 777 /var/run/docker.sock
+```
